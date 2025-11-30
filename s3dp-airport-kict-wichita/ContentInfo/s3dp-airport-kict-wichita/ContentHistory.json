@@ -1,0 +1,10 @@
+{
+  "package-name": "s3dp-airport-kict-wichita",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "KICT",
+      "revision": 1
+    }
+  ]
+}
