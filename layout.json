@@ -1,0 +1,264 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/s3dp-airport-kict-wichita/ContentHistory.json",
+      "size": 149,
+      "date": 134089552448784413
+    },
+    {
+      "path": "ContentInfo/s3dp-airport-kict-wichita/Thumbnail.jpg",
+      "size": 5446,
+      "date": 133619130104865952
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/scenery/KICT.bgl",
+      "size": 331138,
+      "date": 134089552448564085
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/Terminal.BGL",
+      "size": 6246370,
+      "date": 134089207633617677
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/BRICKS103_2K-PNG_AMBIENTOCCLUSION_PNG-BRICKS103_2K-PNG_ROUGHNESS_PNG.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207147180219
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/BRICKS103_2K-PNG_AMBIENTOCCLUSION_PNG-BRICKS103_2K-PNG_ROUGHNESS_PNG.PNG.DDS.json",
+      "size": 166,
+      "date": 134089207147180219
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/BRICKS103_2K-PNG_COLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207147200236
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/BRICKS103_2K-PNG_COLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 134089207147200236
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/BRICKS103_2K-PNG_NORMALGL.PNG.DDS",
+      "size": 5592560,
+      "date": 134089207147155057
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/BRICKS103_2K-PNG_NORMALGL.PNG.DDS.json",
+      "size": 160,
+      "date": 134089207147155057
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CONCRETE047A_2K-PNG_AMBIENTOCCLUSION-CONCRETE047A_2K-PNG_ROUGHNESS.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207146989088
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CONCRETE047A_2K-PNG_AMBIENTOCCLUSION-CONCRETE047A_2K-PNG_ROUGHNESS.PNG.DDS.json",
+      "size": 166,
+      "date": 134089207146989088
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CONCRETE047A_2K-PNG_AMBIENTOCCLUSION_PNG-CONCRETE047A_2K-PNG_ROUGHNESS_PNG.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207146737940
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CONCRETE047A_2K-PNG_AMBIENTOCCLUSION_PNG-CONCRETE047A_2K-PNG_ROUGHNESS_PNG.PNG.DDS.json",
+      "size": 166,
+      "date": 134089207146737940
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CONCRETE047A_2K-PNG_COLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207146773111
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CONCRETE047A_2K-PNG_COLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 134089207146773111
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CONCRETE047A_2K-PNG_NORMALGL.PNG.DDS",
+      "size": 5592560,
+      "date": 134089207146707914
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CONCRETE047A_2K-PNG_NORMALGL.PNG.DDS.json",
+      "size": 160,
+      "date": 134089207146707914
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CORRUGATEDSTEEL007A_2K-PNG_AMBIENTOCCLUSION-CORRUGATEDSTEEL007A_2K-PNG_ROUGHNESS-CORRUGATEDSTEEL007A_2K-PNG_METALNESS.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207147410924
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CORRUGATEDSTEEL007A_2K-PNG_AMBIENTOCCLUSION-CORRUGATEDSTEEL007A_2K-PNG_ROUGHNESS-CORRUGATEDSTEEL007A_2K-PNG_METALNESS.PNG.DDS.json",
+      "size": 166,
+      "date": 134089207147410924
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CORRUGATEDSTEEL007A_2K-PNG_COLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207147420913
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CORRUGATEDSTEEL007A_2K-PNG_COLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 134089207147420913
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CORRUGATEDSTEEL007A_2K-PNG_NORMALGL.PNG.DDS",
+      "size": 5592560,
+      "date": 134089207147400861
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/CORRUGATEDSTEEL007A_2K-PNG_NORMALGL.PNG.DDS.json",
+      "size": 160,
+      "date": 134089207147400861
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/FRONT WINDOW.PNG.DDS",
+      "size": 386384,
+      "date": 134089207147295631
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/FRONT WINDOW.PNG.DDS.json",
+      "size": 102,
+      "date": 134089207147295631
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL044B_2K-PNG_COLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207147064984
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL044B_2K-PNG_COLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 134089207147064984
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL044B_2K-PNG_NORMALGL.PNG.DDS",
+      "size": 5592560,
+      "date": 134089207147039162
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL044B_2K-PNG_NORMALGL.PNG.DDS.json",
+      "size": 160,
+      "date": 134089207147039162
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL045B_2K-PNG_COLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207147521580
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL045B_2K-PNG_COLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 134089207147521580
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL045B_2K-PNG_NORMALGL.PNG.DDS",
+      "size": 5592560,
+      "date": 134089207147511461
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL045B_2K-PNG_NORMALGL.PNG.DDS.json",
+      "size": 160,
+      "date": 134089207147511461
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL055A_2K-PNG_COLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207147275559
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL055A_2K-PNG_COLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 134089207147275559
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL055A_2K-PNG_NORMALGL.PNG.DDS",
+      "size": 5592560,
+      "date": 134089207147265534
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL055A_2K-PNG_NORMALGL.PNG.DDS.json",
+      "size": 160,
+      "date": 134089207147265534
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL_0025_AO_2K-METAL_0025_ROUGHNESS_2K-METAL_0025_METALLIC_2K.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207146813160
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL_0025_AO_2K-METAL_0025_ROUGHNESS_2K-METAL_0025_METALLIC_2K.PNG.DDS.json",
+      "size": 166,
+      "date": 134089207146813160
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL_0025_COLOR_2K.JPG.DDS",
+      "size": 2796344,
+      "date": 134089207146813160
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL_0025_COLOR_2K.JPG.DDS.json",
+      "size": 102,
+      "date": 134089207146813160
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL_0025_NORMAL_OPENGL_2K.PNG.DDS",
+      "size": 5592560,
+      "date": 134089207146793141
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/METAL_0025_NORMAL_OPENGL_2K.PNG.DDS.json",
+      "size": 160,
+      "date": 134089207146793141
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/PAINT006_2K-PNG_AMBIENTOCCLUSION-PAINT006_2K-PNG_ROUGHNESS.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207146923792
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/PAINT006_2K-PNG_AMBIENTOCCLUSION-PAINT006_2K-PNG_ROUGHNESS.PNG.DDS.json",
+      "size": 166,
+      "date": 134089207146923792
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/PAINT006_2K-PNG_COLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 134089207146933808
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/PAINT006_2K-PNG_COLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 134089207146933808
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/PAINT006_2K-PNG_NORMALGL.PNG.DDS",
+      "size": 5592560,
+      "date": 134089207146903779
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/PAINT006_2K-PNG_NORMALGL.PNG.DDS.json",
+      "size": 160,
+      "date": 134089207146903779
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/WINDOW.PNG.DDS",
+      "size": 3387912,
+      "date": 134089207146602767
+    },
+    {
+      "path": "Scenery/airport-kict-wichita/Terminal/texture/WINDOW.PNG.DDS.json",
+      "size": 102,
+      "date": 134089207146602767
+    }
+  ]
+}
